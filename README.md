@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
@@ -10,50 +9,47 @@
 
 ---
 
-### 👨‍💻 About Me
-I am a passionate Frontend Developer focused on creating **responsive, fast, and user-friendly web applications**.  
-I love working with **React.js, JavaScript, and modern CSS frameworks**.  
-Currently exploring **advanced frontend techniques and full-stack development**.
+## 👨‍💻 About Me
+I'm a passionate **Frontend Developer** who loves building **responsive, user-friendly, and performant web applications**.  
+I enjoy working with **modern JavaScript frameworks, CSS techniques, and UI/UX best practices**.  
+Currently exploring **advanced frontend patterns and full-stack development**.
 
 ---
 
-### 🛠 Skills
+## 🛠 Skills
 
-#### Frontend
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="30"/> HTML  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="30"/> CSS  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="30"/> JavaScript  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="30"/> React.js  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="30"/> Tailwind CSS  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40" title="HTML"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40" title="CSS"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" title="React.js"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40" title="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40" title="GitHub"/>
+</div>
 
-#### Tools & Other
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="30"/> Git & GitHub  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" width="30"/> VS Code  
-Responsive Design | UI/UX | Web Performance Optimization  
-
----
-
-### 🚀 Projects
-1. **MyPortfolio** - Personal portfolio website  
-   🔹 Technologies: React.js, Tailwind CSS  
-   🔗 [Live Demo](#) | [GitHub Repo](#)
-
-2. **E-commerce Store** - Online shopping web app  
-   🔹 Technologies: React.js, Redux, Firebase  
-   🔗 [GitHub Repo](#)
-
-3. **Weather App** - Real-time weather updates  
-   🔹 Technologies: JavaScript, API Integration  
-   🔗 [GitHub Repo](#)
+**Other:** Responsive Design | UI/UX | Web Performance Optimization | Debugging | Team Collaboration  
 
 ---
 
-### 📫 Contact Me
-- ✉️ Email: adityakumar@example.com  
-- 🔗 LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/adityakumar/)  
-- 🌐 Portfolio: [MyPortfolio](https://your-portfolio-link.com)  
+## 🚀 Projects
+
+| Project | Description | Tech | Links |
+|--------|-------------|------|-------|
+| **MyPortfolio** | Personal portfolio website | React.js, Tailwind CSS | [Live](#) / [Code](#) |
+| **E-commerce Store** | Online shopping web app | React.js, Redux, Firebase | [Code](#) |
+| **Weather App** | Real-time weather updates | JavaScript, API Integration | [Code](#) |
 
 ---
 
-### 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdityaKumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityakumar/)  
+[![Gmail](https://img.shields.io/badge/Gmail-adityakumar@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adityakumar@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-MyPortfolio-brightgreen?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)  
+
+---
+
+## 📊 GitHub Stats
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
