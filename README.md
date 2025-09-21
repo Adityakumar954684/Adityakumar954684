@@ -35,22 +35,16 @@ Responsive Design | UI/UX | Web Performance Optimization
 ### 🚀 Projects
 1. **MyPortfolio** - Personal portfolio website  
    🔹 Technologies: React.js, Tailwind CSS  
-   🔗 [Live Demo](#) | [GitHub Repo](#)
+   🔗 [Live Demo](my-portfolio-three-umber-17.vercel.app) | [GitHub Repo](https://github.com/Adityakumar954684/My-Portfolio)
 
-2. **E-commerce Store** - Online shopping web app  
-   🔹 Technologies: React.js, Redux, Firebase  
-   🔗 [GitHub Repo](#)
 
-3. **Weather App** - Real-time weather updates  
-   🔹 Technologies: JavaScript, API Integration  
-   🔗 [GitHub Repo](#)
 
 ---
 
 ### 📫 Contact Me
-- ✉️ Email: adityakumar@example.com  
-- 🔗 LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/adityakumar/)  
-- 🌐 Portfolio: [MyPortfolio](https://your-portfolio-link.com)  
+- ✉️ Email: adityakumarsingha2004@gmail.com   
+- 🔗 LinkedIn: [Aditya Kumar](www.linkedin.com/in/aditya-kumar-638340280)  
+- 🌐 Portfolio: [MyPortfolio](my-portfolio-three-umber-17.vercel.app)  
 
 ---
 
