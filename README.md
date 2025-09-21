@@ -44,7 +44,7 @@ Responsive Design | UI/UX | Web Performance Optimization
 ### 📫 Contact Me
 - ✉️ Email: adityakumarsingha2004@gmail.com   
 - 🔗 LinkedIn: [Aditya Kumar](www.linkedin.com/in/aditya-kumar-638340280)  
-- 🌐 Portfolio: [MyPortfolio](https://my-portfolio-three-umber-17.vercel.app/)  
+- 🌐 Portfolio: [MyPortfolio](https://my-portfolio-three-umber-17.vercel.app)
 
 ---
 
