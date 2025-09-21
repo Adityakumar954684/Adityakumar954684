@@ -35,7 +35,8 @@ Responsive Design | UI/UX | Web Performance Optimization
 ### 🚀 Projects
 1. **MyPortfolio** - Personal portfolio website  
    🔹 Technologies: React.js, Tailwind CSS  
-   🔗 [Live Demo](my-portfolio-three-umber-17.vercel.app) | [GitHub Repo](https://github.com/Adityakumar954684/My-Portfolio)
+   🔗 [Live Demo](https://my-portfolio-three-umber-17.vercel.app
+) | [GitHub Repo](https://github.com/Adityakumar954684/My-Portfolio)
 
 
 
