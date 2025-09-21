@@ -10,9 +10,9 @@
 ---
 
 ## 🔹 About Me
-I'm a **Frontend Developer** passionate about building **responsive and interactive web applications**.  
-I focus on writing **clean, maintainable code** and creating **great user experiences**.  
-I enjoy learning **modern frontend technologies** and contributing to **open-source projects**.
+I'm a **Frontend Developer** passionate about building **responsive, interactive, and user-friendly web applications**.  
+I focus on writing **clean and maintainable code**, with emphasis on **UI/UX and performance**.  
+I love learning **modern frontend technologies** and contributing to **open-source projects**.
 
 ---
 
@@ -27,7 +27,7 @@ I enjoy learning **modern frontend technologies** and contributing to **open-sou
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
 </div>
 
-**Other:** Responsive Design | UI/UX | Web Performance Optimization
+**Other:** Responsive Design | UI/UX | Web Performance | Debugging | Team Collaboration
 
 ---
 
@@ -49,6 +49,26 @@ I enjoy learning **modern frontend technologies** and contributing to **open-sou
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%"/>
 </p>
+
+---
+
+### ⚡ Tips to Make it Even More Professional:
+1. Replace all `#` links with your **real project URLs and live demos**.  
+2. Replace `yourusername` with your **GitHub username** for stats.  
+3. Add a `.github/profile-README` folder for **custom images or GIFs**.  
+4. You can also add **animated badges** from [shields.io](https://shields.io/) to highlight achievements.  
+
+---
+
+If you want, I can make an **upgraded ultra-professional version** next:  
+
+- Hover effects on project links  
+- Colorful animated badges for skills  
+- Modern “card” layout for projects  
+
+It will look **like a top GitHub developer profile**.  
+
+Do you want me to make that upgraded version?
