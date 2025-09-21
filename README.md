@@ -1,74 +1,76 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150"/>
 </p>
 
 <h1 align="center">Hi, I'm Aditya Kumar 👋</h1>
 <p align="center">
-  Frontend Developer | React.js | JavaScript | Tailwind CSS
+  <strong>Frontend Developer | React.js | JavaScript | Tailwind CSS</strong>
 </p>
 
 ---
 
-## 🔹 About Me
-I'm a **Frontend Developer** passionate about building **responsive, interactive, and user-friendly web applications**.  
-I focus on writing **clean and maintainable code**, with emphasis on **UI/UX and performance**.  
-I love learning **modern frontend technologies** and contributing to **open-source projects**.
+## 💼 About Me
+I'm a **Frontend Developer** focused on building **fast, responsive, and interactive web applications**.  
+I write **clean, maintainable code** and strive to deliver **great user experiences**.  
+Currently exploring **modern frontend architectures and full-stack development**.
 
 ---
 
-## 💻 Skills
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
-</div>
+## 🛠 Skills
 
-**Other:** Responsive Design | UI/UX | Web Performance | Debugging | Team Collaboration
+<div align="center">
+<img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+<img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+<img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+<img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+<img alt="Tailwind" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
+<img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+<img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
+</div>
 
 ---
 
 ## 🚀 Projects
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| **MyPortfolio** | Personal portfolio website | React.js, Tailwind CSS | [Live](#) / [Code](#) |
-| **E-commerce Store** | Online shopping platform | React.js, Redux, Firebase | [Code](#) |
-| **Weather App** | Real-time weather updates | JavaScript, API | [Code](#) |
+
+<div align="center">
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/MyPortfolio-React.js-blue?style=for-the-badge&logo=react" alt="MyPortfolio"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/E-commerce%20Store-React.js-red?style=for-the-badge&logo=react" alt="E-commerce"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Weather%20App-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="Weather App"/>
+</a>
+</div>
 
 ---
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdityaKumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityakumar/)  
-[![Gmail](https://img.shields.io/badge/Gmail-adityakumar@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adityakumar@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-MyPortfolio-brightgreen?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
+
+<div align="center">
+<a href="https://www.linkedin.com/in/adityakumar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-AdityaKumar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:adityakumar@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-adityakumar@gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-MyPortfolio-brightgreen?style=for-the-badge&logo=google-chrome"/>
+</a>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="49%"/>
 </p>
 
 ---
 
-### ⚡ Tips to Make it Even More Professional:
-1. Replace all `#` links with your **real project URLs and live demos**.  
-2. Replace `yourusername` with your **GitHub username** for stats.  
-3. Add a `.github/profile-README` folder for **custom images or GIFs**.  
-4. You can also add **animated badges** from [shields.io](https://shields.io/) to highlight achievements.  
-
----
-
-If you want, I can make an **upgraded ultra-professional version** next:  
-
-- Hover effects on project links  
-- Colorful animated badges for skills  
-- Modern “card” layout for projects  
-
-It will look **like a top GitHub developer profile**.  
-
-Do you want me to make that upgraded version?
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+</p>
