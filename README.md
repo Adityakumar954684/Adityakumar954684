@@ -39,24 +39,14 @@ Responsive Design | UI/UX | Web Performance Optimization | REST APIs | Deploymen
 ---
 
 ### 🚀 Projects
-1. **MyPortfolio** - Personal portfolio website  
-   🔹 Technologies: React.js, Tailwind CSS  
-   🔗 [Live Demo](https://my-portfolio-three-umber-17.vercel.app) | [GitHub Repo](https://github.com/Adityakumar954684/My-Portfolio)
 
-2. **E-Commerce MERN App** - Full-featured online store  
-   🔹 Technologies: React.js, Node.js, Express, MongoDB, Tailwind CSS  
-   🔗 [GitHub Repo](https://github.com/Adityakumar954684/ecommerce-mern)  
+SkillNexus – Creator Collaboration Platform
+Developed a full-stack MERN platform connecting creators with clients via service posts and direct messaging. Implemented secure authentication (JWT), role-based access, creator portfolios, and real-time chat (Socket.io). Designed a modern, responsive UI with React, Tailwind, and reusable components. Built modular REST APIs using Node.js, Express, MongoDB, and Cloudinary.
+Live Project: https://skill-nexuss.vercel.app/
+GitHub: https://github.com/Adityakumar954684/skillNexuss/tree/main
 
-3. **Task Management App** - Productivity app for tasks  
-   🔹 Technologies: React.js, Node.js, Express, MongoDB  
-   🔗 [GitHub Repo](https://github.com/Adityakumar954684/task-app)  
 
----
 
-### 📫 Contact Me
-- ✉️ Email: adityakumarsingha2004@gmail.com   
-- 🔗 LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/aditya-kumar-638340280/)  
-- 🌐 Portfolio: [MyPortfolio](https://my-portfolio-three-umber-17.vercel.app)  
 
 ---
 
