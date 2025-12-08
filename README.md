@@ -36,7 +36,7 @@ Pandas | NumPy | Data Manipulation | Exploratory Data Analysis (EDA)
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png" width="30"/> Excel  
 Pivot Tables | VLOOKUP | Cleaning | MIS Reporting | Charts & Slicers  
 
-Google Sheets | MS Word | PowerPoint  
+Google Sheets | MS Word | PowerPoint  | Canva
 
 ---
 
