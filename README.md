@@ -4,51 +4,73 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <p align="center">
-  <strong>Full Stack Developer | MERN Stack | React.js | Node.js | UI/UX & Responsive Web Apps</strong>
+  <strong>Data Analyst | Power BI | SQL | Excel | Python (Pandas, NumPy)</strong>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I am a passionate **Full Stack Developer** skilled in **MERN Stack (MongoDB, Express, React, Node.js)**, along with **HTML, CSS, JavaScript, and Tailwind CSS**.  
-I specialize in creating **responsive, fast, and user-friendly web applications**.  
-I enjoy building **modern UI/UX designs** and **scalable, high-performance web architectures**.  
-Currently focusing on **projects that combine interactivity, performance, and clean design**, while continuously learning new technologies.  
+### 👨‍💻 About Me  
+I am a passionate **Data Analyst** skilled in **Power BI, SQL, Excel, and Python**.  
+I specialize in **data cleaning, data modeling, creating dashboards, and extracting insights**.  
+I enjoy transforming raw data into **meaningful visualizations and reports** that support decision-making.
+
+Currently focusing on **Business Intelligence, Data Visualization**, and **Analytical Problem Solving**.
 
 ---
 
 ### 🛠 Skills
 
-#### Frontend
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="30"/> HTML  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="30"/> CSS  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="30"/> JavaScript  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="30"/> React.js  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="30"/> Tailwind CSS  
+#### 📊 Data Visualization  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png" width="30"/> Power BI  
+Interactive Dashboards | DAX | Data Modeling | Power Query  
 
-#### Backend
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="30"/> Node.js  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="30"/> Express.js  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="30"/> MongoDB  
+#### 🗄 Databases  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="30"/> SQL  
+Joins | Group By | CTEs | Aggregations | Data Cleaning  
 
-#### Tools & Other
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="30"/> Git & GitHub  
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" width="30"/> VS Code  
-Responsive Design | UI/UX | Web Performance Optimization | REST APIs | Deployment (Heroku, Vercel)  
+#### 🧮 Data Processing  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="30"/> Python  
+Pandas | NumPy | Data Manipulation | Exploratory Data Analysis (EDA)  
 
----
+#### 📑 Reporting & Tools  
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png" width="30"/> Excel  
+Pivot Tables | VLOOKUP | Cleaning | MIS Reporting | Charts & Slicers  
 
-### 🚀 Projects
-
-SkillNexus – Creator Collaboration Platform
-Developed a full-stack MERN platform connecting creators with clients via service posts and direct messaging. Implemented secure authentication (JWT), role-based access, creator portfolios, and real-time chat (Socket.io). Designed a modern, responsive UI with React, Tailwind, and reusable components. Built modular REST APIs using Node.js, Express, MongoDB, and Cloudinary.
-Live Project: https://skill-nexuss.vercel.app/
-GitHub: https://github.com/Adityakumar954684/skillNexuss/tree/main
-
-
-
+Google Sheets | MS Word | PowerPoint  
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Projects  
+
+#### **📈 Amazon Global Superstore Analysis – Power BI**  
+- Cleaned and transformed dataset using Power Query  
+- Created KPIs: Sales, Profit, Delivery Time, Region Performance  
+- Built interactive dashboards with DAX  
+- Helped identify low-profit categories and high-performing products  
+
+🔗 **Live Dashboard (if available):** _Add link here_  
+📁 **GitHub Repository:** _Add link here_
+
+---
+
+#### **📊 Excel Sales Dashboard**  
+- Automated dashboard with Pivot Tables  
+- Monthly/Yearly performance charts  
+- Product comparison & slicer-based filtering  
+
+📁 **GitHub:** _Add link here_
+
+---
+
+#### **🛢 SQL Retail Data Analysis**  
+- Used JOIN, GROUP BY, CTEs for insights  
+- Analyzed customer order patterns  
+- Found most profitable categories & customer segments  
+
+📁 **GitHub:** _Add link here_
+
+---
+
+### 📊 GitHub Stats  
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityakumar954684&show_icons=true&theme=radical)
+
