@@ -48,8 +48,8 @@ Google Sheets | MS Word | PowerPoint  | Canva
 - Built interactive dashboards with DAX  
 - Helped identify low-profit categories and high-performing products  
 
-🔗 **Live Dashboard (if available):** _Add link here_  
-📁 **GitHub Repository:** _Add link here_
+🔗 **Live Dashboard : 
+📁 **GitHub Repository:
 
 ---
 
@@ -58,7 +58,8 @@ Google Sheets | MS Word | PowerPoint  | Canva
 - Monthly/Yearly performance charts  
 - Product comparison & slicer-based filtering  
 
-📁 **GitHub:** _Add link here_
+🔗 **Live Dashboard : 
+📁 **GitHub:
 
 ---
 
@@ -67,7 +68,8 @@ Google Sheets | MS Word | PowerPoint  | Canva
 - Analyzed customer order patterns  
 - Found most profitable categories & customer segments  
 
-📁 **GitHub:** _Add link here_
+🔗 **Live Dashboard : 
+📁 **GitHub:
 
 ---
 
