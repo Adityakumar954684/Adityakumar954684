@@ -34,9 +34,9 @@ Pandas | NumPy | Data Manipulation | Exploratory Data Analysis (EDA)
 
 #### 📑 Reporting & Tools  
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png" width="30"/> Excel  
-Pivot Tables | VLOOKUP | Cleaning | MIS Reporting | Charts & Slicers  
+Pivot Tables | VLOOKUP | Data Cleaning | MIS Reporting | Charts & Slicers  
 
-Google Sheets | MS Word | PowerPoint  | Canva
+Other Tools: Google Sheets | MS Word | PowerPoint | Canva
 
 ---
 
@@ -46,10 +46,10 @@ Google Sheets | MS Word | PowerPoint  | Canva
 - Cleaned and transformed dataset using Power Query  
 - Created KPIs: Sales, Profit, Delivery Time, Region Performance  
 - Built interactive dashboards with DAX  
-- Helped identify low-profit categories and high-performing products  
+- Identified low-profit categories and high-performing products  
 
-🔗 **Live Dashboard : 
-📁 **GitHub Repository:
+🔗 **Live Dashboard:** [Link]  
+📁 **GitHub Repository:** [Link]
 
 ---
 
@@ -58,8 +58,8 @@ Google Sheets | MS Word | PowerPoint  | Canva
 - Monthly/Yearly performance charts  
 - Product comparison & slicer-based filtering  
 
-🔗 **Live Dashboard : 
-📁 **GitHub:
+🔗 **Live Dashboard:** [Link]  
+📁 **GitHub Repository:** [Link]
 
 ---
 
@@ -68,11 +68,10 @@ Google Sheets | MS Word | PowerPoint  | Canva
 - Analyzed customer order patterns  
 - Found most profitable categories & customer segments  
 
-🔗 **Live Dashboard : 
-📁 **GitHub:
+🔗 **Live Dashboard:** [Link]  
+📁 **GitHub Repository:** [Link]
 
 ---
 
 ### 📊 GitHub Stats  
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityakumar954684&show_icons=true&theme=radical)
-
